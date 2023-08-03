@@ -1,15 +1,13 @@
 
 /*
-Software versions are stored as a string which has 5 parts stored major, minor,patch,build,compilation
+It has been a while since I have worked with JS, this assesment was fun! I overcomplicated it in my first revision,
+but this is simpler. These things are always easier when you come back at them with fresh eyes. I realize this is well outside the
+time limit, but one of my strengths is that I stick with problems.
 
-you may see versions like 
-2, 1.5, or 2.12.4.06
+Looking forward to hearing from you, thanks for the challenge!
 
-the period is used as a separator and does not store data
-
-Your algo should have two string input parameters: version 1 and version2
-
-It should return -1 when version 1 is less than version 2, 0 when version 1 = version2, and 1 when version 1 is greater than version2
+Sincerely, Tucker Nemcek
+tuckerdev100@outlook.com
 */
 
 
